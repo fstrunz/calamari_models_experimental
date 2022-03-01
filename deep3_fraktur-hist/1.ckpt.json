@@ -1121,6 +1121,5 @@
     "__cls__": "calamari_ocr.ocr.dataset.codec:CodecConstructionParams"
   },
   "best_model_prefix": "1",
-  "network": "deep3",
   "__cls__": "calamari_ocr.ocr.training.params:TrainerParams"
 }
